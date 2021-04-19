@@ -62,6 +62,7 @@ body {
   grid-template-rows: 1fr;
   grid-template-areas: "banner";
   color: #fff;
+  background-color: #522806;
   font-size: 1.5rem;
 }
 
